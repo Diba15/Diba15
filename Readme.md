@@ -5,7 +5,7 @@
 
 #### 🌱 I'm currently learning
 <p>
-  
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
 </p>
 
 #### 🔑 Language & Frameworks Used
