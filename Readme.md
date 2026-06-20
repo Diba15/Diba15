@@ -1,44 +1,110 @@
-### Hi there! 👋 I'm Dimas Bagas Saputro
+# Hi there! 👋 I'm Dimas Bagas Saputro
 
-#### About Me
-- I'm interested in Web Development in Full-Stack and Programming Analyst. Right now focus on build CV and Porto.
-
-#### 🌱 I'm currently learning
-<p>
-  <img src="https://img.shields.io/badge/Ember.js-E04E39?style=for-the-badge&logo=ember.js&logoColor=white" alt="Ember.js" />
-  <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Diba15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-#### 🔑 Language & Frameworks Used
+## 💻 About Me
+
+I'm a **Full-Stack Web Developer** from Indonesia who enjoys building modern, scalable, and responsive web applications.
+
+- 💼 Former Frontend Developer at **SIMBARRAYA**
+- 🌱 Currently learning **NestJS**, **CodeIgniter**, and Backend Architecture
+- 💡 Passionate about **Web Development**, **Software Architecture**, and **Performance Optimization**
+- 🚀 Open to **Frontend**, **Backend**, and **Full-Stack Developer** opportunities
+- ⚡ Always learning new technologies and building personal projects
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" />
 </p>
 
-#### 📫 How to reach me
-<a href="https://www.linkedin.com/in/dimas-bagas-saputro-b2185373/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,elysia,nestjs,java,python" />
+</p>
+
+### Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman,figma" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=nestjs,docker" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Diba15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diba15&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Diba15&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diba15&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/dimasbagassaputro/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://www.instagram.com/dimazzbagazz/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-#### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diba15&show_icons=true&theme=radical&count_private=true)
+<a href="mailto:dimaabagas73@proton.me">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diba15&layout=compact&theme=dark&hide_border=true&langs_count=6)
+</p>
 
-#### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Diba15&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Revoshop** | Modern e-commerce application with free API | Next.js |
+| **Portfolio Website** | Personal portfolio website | Vue, Elysia, Tailwind |
+| **Inventaris App** | Personal project inventris app | Vue, Strapi |
+| **Todos App** | Simple Todos app, build with local storage | Vue |
+
+---
+
+## 💭 Quote
+
+> *"Learning never exhausts the mind. Every project is an opportunity to become a better developer."*
