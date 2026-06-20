@@ -9,7 +9,7 @@
 I'm a **Full-Stack Web Developer** from Indonesia who enjoys building modern, scalable, and responsive web applications.
 
 - 💼 Former Frontend Developer at **SIMBARRAYA**
-- 🌱 Currently learning **NestJS**, **CodeIgniter**, and Backend Architecture
+- 🌱 Currently learning **NestJS**, and Backend Architecture
 - 💡 Passionate about **Web Development**, **Software Architecture**, and **Performance Optimization**
 - 🚀 Open to **Frontend**, **Backend**, and **Full-Stack Developer** opportunities
 - ⚡ Always learning new technologies and building personal projects
