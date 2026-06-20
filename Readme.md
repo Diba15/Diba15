@@ -33,7 +33,7 @@ I'm a **Full-Stack Web Developer** from Indonesia who enjoys building modern, sc
 ### Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,git,github,vscode,postman,figma" />
 </p>
 
 ---
@@ -99,7 +99,7 @@ I'm a **Full-Stack Web Developer** from Indonesia who enjoys building modern, sc
 | Project | Description | Tech |
 |---------|-------------|------|
 | **Revoshop** | Modern e-commerce application with free API | Next.js |
-| **Portfolio Website** | Personal portfolio website | Vue, Elysia, Tailwind |
+| **Portfolio Website** | Personal portfolio website | Vue, Elysia, Tailwind, MongoDB |
 | **Inventaris App** | Personal project inventris app | Vue, Strapi |
 | **Todos App** | Simple Todos app, build with local storage | Vue |
 
